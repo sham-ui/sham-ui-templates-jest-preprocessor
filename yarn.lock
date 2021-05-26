@@ -907,20 +907,20 @@ sham-ui-macro@^3.2.0:
     babel-macros "^1.0.2"
     babel-types "^6.26.0"
 
-sham-ui-templates@^5.0.0-alpha.5:
-  version "5.0.0-alpha.5"
-  resolved "https://registry.yarnpkg.com/sham-ui-templates/-/sham-ui-templates-5.0.0-alpha.5.tgz#8fc3a9f080c57c2184f413e678f0fc7ca8dd5f49"
-  integrity sha512-TqUmj5cT14qcvIs6UQms9FoM09aVAXlT4Kc0/48d3SmGxeJRoG8GIVcEdBAD3m2tHdUicl5WPXki0zqp2Ywqow==
+sham-ui-templates@^5.0.0-alpha.6:
+  version "5.0.0-alpha.6"
+  resolved "https://registry.yarnpkg.com/sham-ui-templates/-/sham-ui-templates-5.0.0-alpha.6.tgz#62745fa5b7a23cfb92a6e8666938ac745be50344"
+  integrity sha512-5LAOZraufvUQ2jMUkdq8bTqS8y5AzRm20PDDzdxBqRv5sY7D3z/70mDch3HrTMZyEm18yvAXX8pLPU8eQ1tKCg==
   dependencies:
     asciitree "^1.0.2"
-    sham-ui "5.0.0-alpha.4"
+    sham-ui "5.0.0-alpha.5"
     sham-ui-macro "^3.2.0"
     source-map "^0.5.7"
 
-sham-ui@5.0.0-alpha.4:
-  version "5.0.0-alpha.4"
-  resolved "https://registry.yarnpkg.com/sham-ui/-/sham-ui-5.0.0-alpha.4.tgz#adf8a0b753f546ecafd80b31ba1a2ce7386e51ec"
-  integrity sha512-j7583HykETfKn8ghdfwFMXJYMcCy7WPIubImnTYuZ51Sg1PftVc5Jr69Mf0qTN77NDw4hZx8MPotga1LlMQCNw==
+sham-ui@5.0.0-alpha.5:
+  version "5.0.0-alpha.5"
+  resolved "https://registry.yarnpkg.com/sham-ui/-/sham-ui-5.0.0-alpha.5.tgz#89e2948be4be80a2aa09df1806fbc5a3fff2bff6"
+  integrity sha512-nFIXt5Bvl+cjhKU7NyeyLwIQePb0mpRcrSXEL84cjq0bBU9l1Ot4aVuq1nZCi0Di3rCF1rmM+wBIFMZlDTuIDw==
   dependencies:
     nanoid "^1.3.1"
 
