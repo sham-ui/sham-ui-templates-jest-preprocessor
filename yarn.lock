@@ -907,10 +907,10 @@ sham-ui-macro@^3.6.0:
     babel-macros "^1.0.2"
     babel-types "^6.26.0"
 
-sham-ui-templates@^5.0.0-alpha.12:
-  version "5.0.0-alpha.12"
-  resolved "https://registry.yarnpkg.com/sham-ui-templates/-/sham-ui-templates-5.0.0-alpha.12.tgz#d92b5a23a566e793aeb2d39fbbdfde153cb0df51"
-  integrity sha512-94O7xncm8pSR0i5hlmqZf0bhlk6Lou5xGEwGVCF/74Azi+WAYj6KNqC00dFeSSjGRiXEGuVuXefuOhoodXz+Dg==
+sham-ui-templates@^5.0.0-alpha.14:
+  version "5.0.0-alpha.14"
+  resolved "https://registry.yarnpkg.com/sham-ui-templates/-/sham-ui-templates-5.0.0-alpha.14.tgz#8b30762102b2e4d23a47eae2299271673bc78f19"
+  integrity sha512-sOsFIFICkV19VZRdNZqmbSkSnNr/XGUbGTyfJbyZa6P9ZoQl7G5s8xIQ21A+54NaNaXnlBR4KlCcSvumjx/Fcg==
   dependencies:
     asciitree "^1.0.2"
     sham-ui "5.0.0-alpha.7"
